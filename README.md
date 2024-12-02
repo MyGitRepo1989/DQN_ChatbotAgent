@@ -84,6 +84,8 @@
     <li><code>ChatbotAgent.py:</code> Main script implementing the RL chatbot.</li>
     <li><code>requirements.txt:</code> List of dependencies.</li>
   </ul>
+<h3> Chatbot Tests </h3>
+<img src ="Gardiochatbot.png">
 
   <h2>Future Improvements</h2>
   <ul>
